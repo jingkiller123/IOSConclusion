@@ -1,0 +1,580 @@
+1、证书无效的一种解决方案 
+http://www.cocoachina.com/bbs/read.php?tid-459527-page-2.html
+
+2、利用ping测试手机网络是否正真能联网  RealReachability  
+https://github.com/tonymillion/Reachability  ｜   https://github.com/dustturtle/RealReachability  ｜  https://github.com/AliSoftware/OHHTTPStubs （检测实际网络能否联通）
+
+3、从上往下的类似状态栏statusBar提示  
+TSMessages：https://github.com/KrauseFx/TSMessages  ｜ https://github.com/cezarywojcik/CWStatusBarNotification  ｜  https://github.com/cwRichardKim/RKDropdownAlert  ｜  https://github.com/cruffenach/CRToast  ｜ https://github.com/jaydee3/JDStatusBarNotification  ｜ https://github.com/scalessec/Toast  ｜  https://github.com/terryworona/TWMessageBarManager
+
+4、加载GIF格式的image  
+AnimatedGIFImageSerialization   ｜  https://github.com/liyong03/YLGIFImage  ｜  https://github.com/Flipboard/FLAnimatedImage
+
+5、柱形图 
+https://github.com/litoarias/HACBarChart
+
+6、cocoa controls 
+https://www.cocoacontrols.com/platforms/ios/controls?language=1-objective-c&page=8
+
+7、好的Xcode 插件管理工具 
+alcatraz ： curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | sh
+
+8、一份优秀的前端开发工程师简历是怎么样的？ 
+http://web.jobbole.com/85246/
+
+9、类似HUD从中弹出的image ＋ title 的menu 
+菜单选择  ： https://github.com/balram3429/btSimplePopUp ｜ https://github.com/rnystrom/RNGridMenu  
+
+10、音视频 
+YJVideoPlayer ｜ DFVideoPlayer｜ZFPlayer ｜KRVideoPlayer ｜ VKVideoPlayer ｜ https://github.com/0xced/XCDYouTubeKit  ｜  https://github.com/kolyvan/kxmovie
+
+11、对FMDB封装FMDT  
+https://github.com/bing6/FMDataTable
+
+12、银联 
+http://blog.cocoachina.com/article/15073
+
+13、AFNetworking HTTPS 
+http://www.cnblogs.com/Mike-zh/p/5174238.html?utm_source=tuicool&utm_medium=referral
+
+14、标哥的技术收藏 
+http://www.henishuo.com/ios-dev-resources/
+
+15、dSYM 崩溃crash 分析工具 
+http://www.cocoachina.com/ios/20141219/10694.htm
+
+16、FMDB 数据库加密 
+http://www.tuicool.com/articles/Rny6juR  ｜  后面这个基于sqlite3的简单封装  https://github.com/yuantiku/YTKKeyValueStore ｜  https://github.com/yapstudios/YapDatabase  ｜  https://github.com/marcoarment/FCModel
+
+17、综合 浏览 MHVideoPhotoGallery ｜  相册多选 iOS   8.0  
+CTAssetsPickerController  ｜  https://github.com/questbeat/QBImagePicker  ｜  https://github.com/dzenbot/DZNPhotoPickerController  （8.0）
+
+18、很好用的alert and sheet  
+https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets  ｜  https://github.com/mtonio91/AMSmoothAlert  ｜ 自定义sheet   https://github.com/fastred/AHKActionSheet  ｜ https://github.com/dogo/SCLAlertView
+
+19、重新注册发布证书 
+iReSign
+
+20、自动布局 autolayout  
+https://github.com/smileyborg/UIView-AutoLayout  ｜  https://github.com/PureLayout/PureLayout
+
+21、模型转化 
+https://github.com/netyouli/WHC_DataModelFactory
+
+22、Xcode无证书打IPA包 
+http://www.henishuo.com/xcode-ipa-archive-without-profile/
+
+23、不错的HUD ： 
+JGProgressHUD  ｜  https://github.com/kevin-hirsch/KVNProgress
+
+24、跑马灯  
+https://github.com/dsxNiubility/Wonderful  ｜  https://github.com/cbpowell/MarqueeLabel
+
+25、启动动画 
+https://github.com/CharlinFeng/CoreLaunch  ｜  https://github.com/callumboddy/CBZSplashView
+
+26、编程规范 
+https://github.com/oa414/objc-zen-book-cn/#designated-initializer
+
+27、MVVM框架  
+https://github.com/leichunfeng/MVVMReactiveCocoa  ｜ https://github.com/ReactiveCocoa/ReactiveViewModel
+
+28、导航跳转动画 
+https://github.com/Soul-Beats/UINavigationController-SLTransitioning ｜ https://github.com/Raizlabs/RZTransitions  ｜  https://github.com/recruit-mp/RMPZoomTransitionAnimator  ｜  https://github.com/applidium/ADTransitionController ｜  https://github.com/ColinEberhardt/VCTransitionsLibrary  ｜  https://github.com/andreamazz/AMWaveTransition ｜ https://github.com/mpospese/MPFoldTransition
+
+29、TableView 空的占位图 
+https://github.com/dzenbot/DZNEmptyDataSet
+
+30、完整项目 
+http://www.henishuo.com/ios-app-fully-code/
+
+31、下拉的菜单 
+https://github.com/12207480/DOPDropDownMenu-Enhanced ｜ https://github.com/fastred/MotionBlur ｜ https://github.com/romaonthego/REMenu
+
+32、代理delegate 
+http://www.cocoachina.com/ios/20160317/15696.html
+
+33、自定义键盘 
+https://github.com/podkovyrin/APNumberPad
+
+34、fix cocoa pods cannot update bug 
+http://stackoverflow.com/questions/18224627/error-on-pod-install
+
+35、iOS9.0   
+App Transport Security Settings
+
+36、技术github 收藏 
+https://github.com/Tim9Liu9/TimLiu-iOS
+
+37、Json网页  
+http://pro.jsonlint.com
+
+38、cocoa pod的快捷更新命令 
+pod install --verbose --no-repo-update
+pod update --verbose --no-repo-update
+
+39、图片浏览 
+https://github.com/NYTimes/NYTPhotoViewer  ｜  https://github.com/CharlinFeng/CorePhotoBroswerVC  ｜  https://github.com/mwaterfall/MWPhotoBrowser
+
+40、常用依赖
+{   # platform:ios, '7.1'
+    # 网络
+    pod 'AFNetworking'
+
+    # 快捷扩展
+    pod 'YYCategories'
+
+    # UI
+    pod 'Masonry'
+    pod 'MBProgressHUD'
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'IQKeyboardManager'
+
+    # 优化流畅度
+    # pod 'AsyncDisplayKit', '~> 1.9.80'
+
+    # 侧滑
+    pod 'MMDrawerController'
+
+    # UI圆角
+    pod 'ZYCornerRadius'
+    pod 'HYBImageCliped’
+
+    # 图片轮播以及浏览图片
+    pod 'SDCycleScrollView'
+    pod 'IDMPhotoBrowser'
+
+    # 引导页
+    pod 'EAIntroView'
+
+    # 功能类（处理时间）
+    pod 'DateTools'
+    pod 'MJExtension'
+
+    # FPS指示
+    pod 'JPFPSStatus', '~> 0.1'
+
+    # 加载webview
+    pod 'NJKWebViewProgress'
+
+    # 百度地图
+    pod 'BaiduMapKit', '~> 3.0.0'}
+
+41、移动tableviewcell ，多级按钮 
+https://github.com/jamztang/JTGestureBasedTableViewDemo  ｜ https://github.com/MortimerGoro/MGSwipeTableCell
+
+42、为图片添加文字气泡  
+https://github.com/EddyBorja/EBPhotoPages  ｜  图片编辑器（类似美图、滤图）：https://github.com/yackle/CLImageEditor  ｜  图片管理  https://github.com/kean/DFImageManager ｜ 图片区域裁剪  https://github.com/ruslanskorb/RSKImageCropper
+
+43、autolayout 	
+https://github.com/floriankugler/FLKAutoLayout
+
+44、可以动态添加的segmentcontrol
+https://github.com/dzenbot/DZNSegmentedControl  ｜  https://github.com/samvermette/SVSegmentedControl  ｜  https://github.com/rs/SDSegmentedControl  ｜  https://github.com/HeshamMegid/HMSegmentedControl
+
+45、分析tracking类库 
+https://github.com/orta/ARAnalytics
+
+46、推送调试工具  
+https://github.com/noodlewerk/NWPusher  ｜  https://github.com/KnuffApp/Knuff
+
+47、类似瀑布流的collectionview  
+https://github.com/impeterstone/PSCollectionView  ｜  https://github.com/njdehoog/NHBalancedFlowLayout  ｜ https://github.com/mayuur/MJParallaxCollectionView  ｜  https://github.com/ra1028/RACollectionViewReorderableTripletLayout  ｜  https://github.com/chiahsien/CHTCollectionViewWaterfallLayout
+
+48、内存泄漏纪录工具
+https://github.com/tapwork/HeapInspector-for-iOS
+
+49、相机管理 
+https://github.com/danielebogo/DBCamera  ｜  https://github.com/tdginternet/TGCameraViewController  ｜  https://github.com/gobackspaces/DLCImagePickerController
+
+50、菜单选择
+https://github.com/Yalantis/Context-Menu.iOS
+
+51、类似tableview可折叠、并能动态添加、展开的列表
+https://github.com/Augustyniak/RATreeView
+
+52、自定义slider	
+https://github.com/alskipp/ASValueTrackingSlider  ｜  https://github.com/alskipp/ASProgressPopUpView
+
+53、检测手机上安装的app 
+https://github.com/danielamitay/iHasApp
+
+54、自定义弹出窗口（类似 pop sheet 控制器），强大多功能
+https://github.com/kevin0571/STPopup  ｜ https://github.com/jmascia/KLCPopup  ｜  https://github.com/carsonperrotti/CNPPopupController  ｜  https://github.com/werner77/WEPopover  ｜ https://github.com/m1entus/MZFormSheetController  ｜ https://github.com/nicolaschengdev/WYPopoverController
+
+55、自定义能动画加载字体内容的lable 
+https://github.com/overboming/ZCAnimatedLabel ｜  https://github.com/honcheng/RTLabel  ｜  https://github.com/zipme/RQShineLabel   ｜  https://github.com/facebook/Shimmer   ｜   https://github.com/tomknig/TOMSMorphingLabel
+
+56、轻量级的快捷类库封装
+https://github.com/atomicobject/objection
+
+57、类似QQ侧滑
+https://github.com/JVillella/JVFloatingDrawer  ｜  https://github.com/romaonthego/RESideMenu
+
+58、一款涂鸦工具
+https://github.com/IFTTT/jot
+
+59、正则匹配以及断言校正判断类
+https://github.com/bendytree/Objective-C-RegEx-Categories  ｜  https://github.com/specta/expecta
+
+60、一款OS X上的工具 
+https://github.com/lanayotech/vagrant-manager
+
+61、弹出菜单（带有粘性）但自定义范围较小 
+https://github.com/kolyvan/kxmenu ｜ https://github.com/KittenYang/KYGooeyMenu ｜ https://github.com/marvelapp/FancyTabBar  ｜  自定义菜单  https://github.com/levey/AwesomeMenu
+
+62、根据指定位置弹出提示的popTip（主要是文字）  
+https://github.com/andreamazz/AMPopTip ｜ https://github.com/chrismiles/CMPopTipView
+
+63、Xcode一款将json转model的插件 
+https://github.com/EnjoySR/ESJsonFormat-Xcode
+
+64、scrollview的下拉刷新 
+https://github.com/uzysjung/UzysAnimatedGifPullToRefresh
+
+65、变态级优化tableview 卡顿思想
+https://github.com/johnil/VVeboTableViewDemo
+
+66、iOS 初步学习
+https://github.com/shinobicontrols/iOS7-day-by-day  ｜ （附赠一个日本man的bog） https://github.com/mixi-inc/iOSTraining
+
+67、很牛的一款音乐播放器
+https://github.com/Aufree/ESTMusicPlayer
+
+68、脉冲波纹类似支付宝的咻一咻 
+https://github.com/shu223/PulsingHalo
+
+69、数据模型比较疯转 
+https://github.com/supermarin/ObjectiveRecord
+
+70、左右侧滑 
+https://github.com/aryaxt/iOS-Slide-Menu  ｜  https://github.com/mutualmobile/MMDrawerController  ｜ https://github.com/SocialObjects-Software/AMSlideMenu  ｜  https://github.com/ViewDeck/ViewDeck ｜ https://github.com/ECSlidingViewController/ECSlidingViewController  ｜  https://github.com/pkluz/PKRevealController  ｜  多级侧滑 https://github.com/John-Lluch/SWRevealViewController  ｜  https://github.com/erichoracek/MSDynamicsDrawerViewController  ｜ https://github.com/gotosleep/JASidePanels
+
+71、视图控制器的切换控制（类似tabbarcontroller）
+https://github.com/cwRichardKim/RKSwipeBetweenViewControllers ｜ https://github.com/100grams/HGPageScrollView （分页） ｜ https://github.com/wangmchn/WMPageController
+
+72、一款开源的天气软件（动画内容不错） 
+https://github.com/YouXianMing/YoCelsius  ｜  https://github.com/comyarzaheri/Sol
+
+73、地图扎点控制器
+https://github.com/choefele/CCHMapClusterController  ｜   https://github.com/nfarina/calloutview  ｜ https://github.com/TransitApp/SVPulsingAnnotationView
+
+74、字体控制 
+FontAwesome+iOS
+
+75、蓝牙库 
+https://github.com/coolnameismy/BabyBluetooth
+
+76、自定义pagecontrol  
+https://github.com/Spaceman-Labs/SMPageControl
+
+77、自定义button
+https://github.com/pepibumur/PPiAwesomeButton  ｜  https://github.com/sebastienwindal/FRDLivelyButton  ｜  button 动画  https://github.com/AlexeyBelezeko/TBIconTransitionKit  ｜  https://github.com/a1anyip/AYVibrantButton  ｜  https://github.com/victorBaro/VBFPopFlatButton
+
+78、Xcode插件 － 用于编辑快速转化类型等  
+https://github.com/pdcgomes/XCActionBar
+
+80、视图聊天界面  
+https://github.com/ZhipingYang/UUChatTableView  ｜  https://github.com/jessesquires/JSQMessagesViewController  ｜ https://github.com/layerhq/Atlas-iOS  ｜  https://github.com/relatedcode/EncryptedChat
+
+81、新闻推送界面 
+https://github.com/mdznr/What-s-New
+
+82、日期选择器 
+https://github.com/jivesoftware/PDTSimpleCalendar  ｜  https://github.com/WenchaoD/FSCalendar  ｜ https://github.com/jonathantribouharet/JTCalendar  ｜  https://github.com/puls/objc-TimesSquare
+
+83、收垃圾动画效果 
+https://github.com/Ciechan/BCGenieEffect
+
+84、输入bar结合keyboard实现输入 
+https://github.com/fphilipe/PHFComposeBarView
+
+85、简化编程类似css ，不过还是老实用原生的呗 
+https://github.com/robertwijas/UISS  ｜  https://github.com/krzysztofzablocki/KZPropertyMapper  ｜  https://github.com/tombenner/nui
+
+86、带有badged标记的cell 
+https://github.com/tmdvs/TDBadgedCell
+
+87、不知道有什么用先记录一下而已  
+https://github.com/LeoNatan/LNPopupController  ｜  https://github.com/github/Rebel
+
+88、addressbook 
+https://github.com/Alterplay/APAddressBook
+
+89、浏览工具 
+https://github.com/terminatorover/RGCardViewLayout
+
+90、电话号码处理类  
+https://github.com/iziz/libPhoneNumber-iOS
+
+91、Mac  闹铃  
+https://github.com/newmarcel/KeepingYouAwake
+
+92、解析CSV文件  
+https://github.com/davedelong/CHCSVParser
+
+93、Xcode 插件 自动完成 NSLocalizedString  （Lin）  ｜ 背景颜色  
+https://github.com/kolinkrewinkel/Polychromatic
+
+94、自定义 IndicatorView  （8.0）
+https://github.com/gontovnik/DGActivityIndicatorView
+
+95、scrollview 头部图片下拉模糊 
+https://github.com/cyndibaby905/TwitterCover
+
+96、相册授权
+https://github.com/clusterinc/ClusterPrePermissions
+
+97、OpenGL 3d 转换  
+https://github.com/Ciechan/BCMeshTransformView
+
+98、Monkey 软件 
+https://github.com/coderyi/Monkey
+
+99、分享 包括 android 和 window phone 以及 iOS 的类库集成 
+https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin
+
+100、日期操作扩展类 
+https://github.com/erica/NSDate-Extensions
+
+101、image 转 PDF  
+https://github.com/mindbrix/UIImage-PDF
+
+102、OverCoat is the best accessory for Mantle and  AFNetworking  
+https://github.com/Overcoat/Overcoat
+
+103、水波 类似涨潮的渐进动画 progress  
+https://github.com/antiguab/BAFluidView
+
+104、图片滤镜效果 
+https://github.com/BradLarson/GPUImage
+
+105、综合图表
+https://github.com/kevinzhow/PNChart  ｜  https://github.com/Jawbone/JBChartView  ｜ https://github.com/Boris-Em/BEMSimpleLineGraph  ｜ https://github.com/erichoracek/MSCollectionViewCalendarLayout  ｜  https://github.com/xyfeng/XYPieChart
+
+106、一个开源OS X 上的游戏平台 
+https://github.com/facebook/Shimmer
+
+107、socket 通讯 
+https://github.com/robbiehanson/CocoaAsyncSocket  ｜  https://github.com/square/SocketRocket
+
+108、留言回复聊天工具  
+https://github.com/slackhq/SlackTextViewController
+
+109、bug 记录统计分析工具 
+https://github.com/Flipboard/FLEX
+
+110、 自定义 lable  
+https://github.com/TTTAttributedLabel/TTTAttributedLabel
+
+111、应用背景主题（颜色、图片等） 
+https://github.com/ViccAlexander/Chameleon  ｜ （夜间模式） https://github.com/Draveness/DKNightVersion
+
+112、javascript 交互 
+https://github.com/marcuswestin/WebViewJavascriptBridge  ｜  https://github.com/bang590/JSPatch  ｜  https://github.com/MacGapProject/MacGap1
+
+113、一款编译工具  
+https://github.com/facebook/xctool
+
+114、用于scrollview 分页切换动画 
+https://github.com/IFTTT/JazzHands
+
+115、对blocks 的完美扩展 
+https://github.com/zwaldowski/BlocksKit
+
+116、TableViewCell 高度自适应
+https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
+
+117、网络调试 
+https://github.com/square/PonyDebugger
+
+118、可以自定义的很好用的动画封装，简化动画的使用
+https://github.com/CanvasPod/Canvas  ｜  https://github.com/schneiderandre/popping  ｜  https://github.com/jhurray/JHChainableAnimations  ｜ https://github.com/robb/RBBAnimation
+
+119、通知监听控制器 
+https://github.com/facebook/KVOController
+
+120、Parse 和 Facebook 在内部使用的底层库 
+https://github.com/BoltsFramework/Bolts-ObjC
+
+121、苹果开源的健康医疗使用的框架  ResearchKit 
+https://github.com/ResearchKit/ResearchKit
+
+122、键盘管理类
+https://github.com/michaeltyson/TPKeyboardAvoiding
+
+123、文件编辑器 
+http://sspai.com/25137  ｜ https://github.com/MacDownApp/macdown
+
+124、CoreText 
+https://github.com/Cocoanetics/DTCoreText
+
+125、终端自定义 
+https://github.com/gnachman/iTerm2
+
+126、测试框架
+https://github.com/kif-framework/KIF  ｜  https://github.com/kiwi-bdd/Kiwi  ｜  https://github.com/google/EarlGrey  ｜ https://github.com/domesticcatsoftware/DCIntrospect
+
+127、Xcode 编辑插件
+https://github.com/XVimProject/XVim
+
+128、Xcode 图片名字提示插件 
+https://github.com/ksuther/KSImageNamed-Xcode
+
+129、懒人代码库
+https://github.com/devinross/tapkulibrary
+
+130、提示用户给APP评分的类库
+https://github.com/arashpayan/appirater
+
+131、可拉伸的Header 
+https://github.com/jamztang/CSStickyHeaderFlowLayout
+
+132、各种Formatter 
+https://github.com/mattt/FormatterKit
+
+133、优化、动态简化tableview的使用  
+https://github.com/xmartlabs/XLForm ｜  https://github.com/nicklockwood/FXForms
+
+134、打印console工具 
+https://github.com/fpillet/NSLogger
+
+135、录音 、音频控制
+https://github.com/syedhali/EZAudio  ｜  https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine  ｜ https://github.com/douban/DOUAudioStreamer  ｜  https://github.com/mattgallagher/AudioStreamer
+
+136、Objc扩展类
+https://github.com/jspahrsummers/libextobjc ｜  https://github.com/supermarin/ObjectiveSugar
+
+137、对NavigationBar 的更改颜色、实现类似系统的自动跟随功能等 
+https://github.com/ltebean/LTNavigationBar  ｜ https://github.com/telly/TLYShyNavBar ｜  https://github.com/bryankeller/BLKFlexibleHeightBar
+
+138、各种进度条  
+https://github.com/Marxon13/M13ProgressSuite  ｜  https://github.com/mrackwitz/MRProgress  ｜ https://github.com/danielamitay/DACircularProgress
+
+139、侧滑cover覆盖 
+https://github.com/romaonthego/REFrostedViewController  ｜  https://github.com/rnystrom/RNFrostedSidebar
+ 
+140、专门用于加载webview（js）的视图控制器｜（打开URL） 
+https://github.com/ninjinkun/NJKWebViewProgress ｜ https://github.com/TransitApp/SVWebViewController
+
+141、在设置中更改app 配置 
+https://github.com/futuretap/InAppSettingsKit
+
+142、类似tableview 的控件 
+https://github.com/AlanQuatermain/AQGridView  ｜  https://github.com/gmoledina/GMGridView
+
+143、管理URLScheme 的应用间跳转 使用
+https://github.com/button/DeepLinkKit  ｜  https://github.com/joeldev/JLRoutes  |   https://github.com/intentkit/IntentKit
+
+144、可伸展的tabbar  
+https://github.com/Yalantis/FoldingTabBar.iOS
+
+145、导航栏自动pan 手势的重写 
+https://github.com/forkingdog/FDFullscreenPopGesture
+
+146、 UIImage 的一个不错的扩展类 
+https://github.com/Nyx0uf/NYXImagesKit
+
+147、GCD封装的一个网络解析框架（只能了解） 
+https://github.com/swisspol/GCDWebServer
+
+148、UIImageView图片加载框架  
+https://github.com/pinterest/PINRemoteImage
+
+149、SVG资源的加载使用 
+https://github.com/SVGKit/SVGKit
+
+150、解析CSS 
+https://github.com/mwaterfall/MWFeedParser
+
+151、卡片叠放视图 
+https://github.com/zhxnlai/ZLSwipeableView
+
+152、可替代scrollview 
+https://github.com/nicklockwood/SwipeView
+
+153、自定义tabBarController 
+https://github.com/ChenYilong/CYLTabBarController
+
+154、通知小红点 
+https://github.com/cwRichardKim/RKNotificationHub
+
+155、应用内进行 App Store 付费的功能 
+https://github.com/MugunthKumar/MKStoreKit
+
+156、KeyChain 
+https://github.com/kishikawakatsumi/UICKeyChainStore ｜ https://github.com/soffes/SSKeychain
+
+157、类似迅雷搜索种子的style 
+https://github.com/zoonooz/ZFDragableModalTransition  ｜  https://github.com/kentnguyen/KNSemiModalViewController
+
+158、简单的带栅格iOS表格
+https://github.com/sobri909/MGBoxKit
+
+159、Mac上类似的QQ的聊天
+https://github.com/stonesam92/ChitChat
+
+160、除了YYCategories 不过的各种扩展类 
+https://github.com/shaojiankui/iOS-Categories
+
+171、coredata 
+https://github.com/ChristianKienle/Core-Data-Editor
+
+172、PunchClock是iOS 7的一个使用iBeacon和Geofencing的在线/离线跟踪应用 
+https://github.com/panicinc/PunchClock
+
+173、软件更新  
+https://github.com/nicklockwood/iVersion
+
+174、正则表达式 
+http://blog.csdn.net/u011225629/article/details/51011084
+
+175、设计者模式
+http://blog.csdn.net/u011225629/article/details/51038195
+
+176、安装cocoapods ->homebrew->RVM->Ruby->CocoaPods
+
+175、截屏
+https://github.com/justinmfischer/7blur ｜ https://github.com/gblancogarcia/GBBlurView
+
+176、面向切面变成AOP 
+https://github.com/steipete/Aspects
+
+177、unicode 转 utf 
+http://json.cn/#
+
+#define WEAKSELF typeof(self) __weak weakSelf = self; 
+#define STRONGSELF typeof(weakSelf) __strong strongSelf = weakSelf;
+
+188、appearance 
+http://www.jianshu.com/p/c96a4214a39f
+
+———————————————————————————————————————————SWIFT——————————————————————————————————————————
+
+1、知乎swift评价
+https://www.zhihu.com/question/24002984
+
+2、swift视频网址
+http://www.swiftv.cn
+
+3、开源项目总结
+http://www.jianshu.com/p/efeced3f964f
+
+4、学习网址
+https://ke.qq.com/course/132615#term_id=100148207  小号账户
+
+5、object-C 过渡到swift 
+https://github.com/100mango/zen/blob/master/Swift学习：从Objective-C到Swift/Swift学习：从Objective-C到Swift.md
+
+6、简书精选swift收藏总结
+http://www.jianshu.com/p/0fce709111c1
+
+7、上线
+http://superdanny.link/2015/09/24/iOS-about-certification-guide/
+
+8、cocoa controls 
+https://www.cocoacontrols.com/platforms/ios/controls?language=1-objective-c&page=8
+
+9、swift资料整理
+http://blog.cocoachina.com/article/29872#
