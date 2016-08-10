@@ -80,7 +80,7 @@ https://github.com/oa414/objc-zen-book-cn/#designated-initializer
 https://github.com/leichunfeng/MVVMReactiveCocoa  ｜ https://github.com/ReactiveCocoa/ReactiveViewModel
 
 28、导航跳转动画 
-https://github.com/Soul-Beats/UINavigationController-SLTransitioning ｜ https://github.com/Raizlabs/RZTransitions  ｜  https://github.com/recruit-mp/RMPZoomTransitionAnimator  ｜  https://github.com/applidium/ADTransitionController ｜  https://github.com/ColinEberhardt/VCTransitionsLibrary  ｜  https://github.com/andreamazz/AMWaveTransition ｜ https://github.com/mpospese/MPFoldTransition
+https://github.com/Soul-Beats/UINavigationController-SLTransitioning ｜ https://github.com/Raizlabs/RZTransitions  ｜  https://github.com/recruit-mp/RMPZoomTransitionAnimator  ｜  https://github.com/applidium/ADTransitionController ｜  https://github.com/ColinEberhardt/VCTransitionsLibrary  ｜  https://github.com/andreamazz/AMWaveTransition ｜ https://github.com/mpospese/MPFoldTransition  |  https://github.com/JazysYu/JZNavigationExtension
 
 29、TableView 空的占位图 
 https://github.com/dzenbot/DZNEmptyDataSet
@@ -498,7 +498,7 @@ https://github.com/nicklockwood/SwipeView
 https://github.com/ChenYilong/CYLTabBarController
 
 154、通知小红点 
-https://github.com/cwRichardKim/RKNotificationHub
+https://github.com/cwRichardKim/RKNotificationHub  |  https://github.com/weng1250/WZLBadge  | https://github.com/JaviSoto/JSBadgeView | https://github.com/KittenYang/KYCuteView （类似qq能拖动）
 
 155、应用内进行 App Store 付费的功能 
 https://github.com/MugunthKumar/MKStoreKit
@@ -554,8 +554,22 @@ http://www.jianshu.com/p/c96a4214a39f
 https://github.com/MxABC/LBXScan
 
 190、分页效果（多页）
-https://github.com/StefanLage/SLPagingView
+https://github.com/StefanLage/SLPagingView | https://github.com/iltercengiz/ICViewPager
 
+191、直播
+https://github.com/GrayJIAXU/520Linkee
+
+192、弹幕
+https://github.com/unash/BarrageRenderer
+
+193、配合tabbarcontroller 的菜单
+https://github.com/Tangdixi/DCPathButton
+
+194、评分小星星（可自定义）
+https://github.com/hsousa/HCSStarRatingView
+
+195、导航栏下拉菜单
+https://github.com/DrummerB/BFNavigationBarDrawer
 ———————————————————————————————————————————SWIFT——————————————————————————————————————————
 
 1、知乎swift评价
